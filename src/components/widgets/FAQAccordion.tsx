@@ -6,7 +6,7 @@ export default component$(() => {
     <Accordion.Root class="w-full dark:text-gray-50 pb-4">
       {/* Services Section */}
       <Accordion.Item class="dark:border-gray-700">
-        <Accordion.Trigger class="text-xl flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
+        <Accordion.Trigger class="text-lg flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
           <span>What types of photography do you offer?</span>
         </Accordion.Trigger>
         <Accordion.Content class="">
@@ -20,7 +20,7 @@ export default component$(() => {
       </Accordion.Item>
 
       <Accordion.Item class="dark:border-gray-700">
-        <Accordion.Trigger class="text-xl flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
+        <Accordion.Trigger class="text-lg flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
           <span>Do you provide video production services?</span>
         </Accordion.Trigger>
         <Accordion.Content class="">
@@ -34,7 +34,7 @@ export default component$(() => {
       </Accordion.Item>
 
       <Accordion.Item class="dark:border-gray-700">
-        <Accordion.Trigger class="text-xl flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
+        <Accordion.Trigger class="text-lg flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
           <span>Can you assist with creative direction?</span>
         </Accordion.Trigger>
         <Accordion.Content class="">
@@ -48,7 +48,7 @@ export default component$(() => {
       </Accordion.Item>
 
       <Accordion.Item class="dark:border-gray-700">
-        <Accordion.Trigger class="text-xl flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
+        <Accordion.Trigger class="text-lg flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
           <span>What is your turnaround time for projects?</span>
         </Accordion.Trigger>
         <Accordion.Content class="">
@@ -62,7 +62,7 @@ export default component$(() => {
       </Accordion.Item>
 
       <Accordion.Item class="dark:border-gray-700">
-        <Accordion.Trigger class="text-xl flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
+        <Accordion.Trigger class="text-lg flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
           <span>Do you offer custom packages?</span>
         </Accordion.Trigger>
         <Accordion.Content class="">
