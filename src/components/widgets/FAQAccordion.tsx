@@ -7,7 +7,7 @@ export default component$(() => {
       {/* Services Section */}
       <Accordion.Item class="dark:border-gray-700">
         <Accordion.Trigger class="text-lg flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
-          <span>What types of photography do you offer?</span>
+          <span>What types of services do you offer?</span>
         </Accordion.Trigger>
         <Accordion.Content class="">
           {/* Service Links with Highlight and Divider */}
@@ -21,7 +21,7 @@ export default component$(() => {
 
       <Accordion.Item class="dark:border-gray-700">
         <Accordion.Trigger class="text-lg flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
-          <span>Do you provide video production services?</span>
+          <span>Do you provide video services?</span>
         </Accordion.Trigger>
         <Accordion.Content class="">
           {/* Service Links with Highlight and Divider */}
@@ -35,7 +35,7 @@ export default component$(() => {
 
       <Accordion.Item class="dark:border-gray-700">
         <Accordion.Trigger class="text-lg flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
-          <span>Can you assist with creative direction?</span>
+          <span>Can you assist with direction?</span>
         </Accordion.Trigger>
         <Accordion.Content class="">
           {/* Service Links with Highlight and Divider */}
@@ -49,7 +49,7 @@ export default component$(() => {
 
       <Accordion.Item class="dark:border-gray-700">
         <Accordion.Trigger class="text-lg flex trigger-text justify-between hover:text-primary items-center py-3 border-b border-gray-300 dark:border-gray-700">
-          <span>What is your turnaround time for projects?</span>
+          <span>What is your timeline for projects?</span>
         </Accordion.Trigger>
         <Accordion.Content class="">
           {/* Service Links with Highlight and Divider */}
